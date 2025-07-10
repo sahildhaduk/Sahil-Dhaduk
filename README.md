@@ -1,4 +1,4 @@
-# Sahil-Dhaduk
+# SahilDhaduk
 Namaste 🙏
 👋 I'm sahil dhaduk , a passionate web developer on a journey to craft remarkable digital experiences.
 
